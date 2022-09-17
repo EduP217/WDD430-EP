@@ -9,6 +9,6 @@ import { setTheme } from 'ngx-bootstrap/utils';
 export class AppComponent {
   title = 'WDD430-EP';
   constructor() {
-    setTheme('bs5');
+    setTheme('bs3');
   }
 }
